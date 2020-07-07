@@ -1,4 +1,4 @@
-# Solo Project Proposal
+# Group Project Proposal
 
 It's time to start putting your bootcamp skills to something you want to share with the world!
 
